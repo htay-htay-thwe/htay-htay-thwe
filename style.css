@@ -1,0 +1,35 @@
+.contact-link{
+  padding: 20px 30px;
+  background-color: rgb(209, 180, 236);
+  text-decoration:none;
+  color:brown;
+  text-transform: uppercase;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+.contact-link:hover{
+  background-color: white;
+  box-shadow: 2px 2px;
+}
+section{
+  text-align: center;
+}
+.about-link{
+  padding: 20px 30px;
+  text-decoration: none;
+  color: brown;
+  border: 1px solid black;
+  border-radius: 10px;
+  text-transform: uppercase;
+}
+.about-link:hover{
+  background-color:rgb(206, 163, 246) ;
+  box-shadow: 2px 2px;
+
+}
+header{
+  text-align: center;
+}
+.contactMe{
+  text-align: center;
+}
