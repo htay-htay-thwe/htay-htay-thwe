@@ -47,6 +47,10 @@ I am interested in Cloud Computing, Kubernetes, and Cybersecurity, and I enjoy l
 
 ---
 
+## 🏆 Achievements & Awards
+First Runner-Up, **Huawei National ICT Competition Thailand** – Cloud Track 2025 - 2026 
+
+---
 ## 🚀 Featured Projects Portfolio
 
 Highlighted full-stack, frontend, backend, and mobile applications built with modern technologies.
