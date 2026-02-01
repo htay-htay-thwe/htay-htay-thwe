@@ -2,7 +2,7 @@
 
 # Hi there, I'm Htay Htay Thwe! 👋
 
-### Web Developer | Full Stack Developer | DevOps & Cloud Learner 
+### Web Developer | Full Stack Developer | Mobile Developer | DevOps & Cloud Learner 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/htayhtay-thwe/)](https://www.linkedin.com/in/htayhtay-thwe/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/htaythwe12)](https://www.facebook.com/htaythwe12)
