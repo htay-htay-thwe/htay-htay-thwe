@@ -57,16 +57,16 @@ Highlighted full-stack, frontend, backend, and mobile applications built with mo
 
 | Category | Project | Tech Stack |
 |:---------|:--------|:-----------|
+| 🏝️ Gemini 2.5 AI Travel Planner | [Amigo Backend](https://github.com/htay-htay-thwe/amigo-backend | Backend API |
+| 🏝️ Gemini 2.5 AI Travel Planner | [Amigo Mobile App](https://github.com/htay-htay-thwe/amigo-app) | React Native |
+| ☕ Mobile App | [Coffee App](https://github.com/htay-htay-thwe/coffeeRN) | React Native |
+| ☕ Backend | [Coffee Backend](https://github.com/htay-htay-thwe/coffee-Nodejs) | Node.js |
 | ✈️ Flight Systems | [Daily Flight (Vue.js)](https://github.com/htay-htay-thwe/daily_flight_vue) | Vue.js, API |
-| ✈️ Flight Systems | [Booking Flights (React)](https://github.com/htay-htay-thwe/booking_flights-React-JSX) | React, JSX |
+| ✈️ Flight Systems | [Booking Flights (React)](https://github.com/htay-htay-thwe/Booking-Flights-React-JSX) | React, JSX |
 | ✈️ Flight Systems | [Booking Flights (Laravel)](https://github.com/htay-htay-thwe/Booking-Flights-Laravel) | Laravel, PHP, MySQL |
 | 📚 Content Platform | [Reading Contents](https://github.com/htay-htay-thwe/readingContents) | Web App |
-| 📚 Content Platform | [Creating Contents (Backend)](https://github.com/htay-htay-thwe/creatingContents-backend) | Laravel API |
-| 🛒 E-commerce | [Bookshop One](https://github.com/htay-htay-thwe/bookshop-one) | Full-Stack |
-| ☕ Mobile App | [Coffee App](https://github.com/htay-htay-thwe/coffee-React-Native) | React Native |
-| ☕ Backend | [Coffee Backend](https://github.com/htay-htay-thwe/coffee-Nodejs) | Node.js |
-| 🤝 Social App | [Amigo Backend](https://github.com/htay-htay-thwe/amigo_backend) | Backend API |
-| 🤝 Social App | [Amigo Mobile App](https://github.com/htay-htay-thwe/amigo_app) | React Native |
+| 📚 Content Platform | [Creating Contents (Backend)](https://github.com/htay-htay-thwe/creatingContents-backened) | Laravel API |
+| 🛒 E-commerce | [Bookshop One](https://github.com/htay-htay-thwe/bookshop_one) | Vue |
 
 </details>
 
