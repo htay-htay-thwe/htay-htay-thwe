@@ -57,7 +57,7 @@ Highlighted full-stack, frontend, backend, and mobile applications built with mo
 
 | Category | Project | Tech Stack |
 |:---------|:--------|:-----------|
-| 🏝️ Gemini 2.5 AI Travel Planner | [Amigo Backend](https://github.com/htay-htay-thwe/amigo-backend) | Backend API |
+| 🏝️ Gemini 2.5 AI Travel Planner | [Amigo Backend](https://github.com/htay-htay-thwe/amigo-backend) | Node.js (flight and hotel Api) |
 | 🏝️ Gemini 2.5 AI Travel Planner | [Amigo Mobile App](https://github.com/htay-htay-thwe/amigo-app) | React Native |
 | ☕ Mobile App | [Coffee App](https://github.com/htay-htay-thwe/coffeeRN) | React Native |
 | ☕ Backend | [Coffee Backend](https://github.com/htay-htay-thwe/coffee-Nodejs) | Node.js |
