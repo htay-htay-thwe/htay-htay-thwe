@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Professional Summary
 I am a student of Mae Fah Luang University, taking major in Digital and Communication Engineering.
-I am a passionate Web Developer with experience in building modern web applications using React and Laravel.  
+I am a passionate Web Developer with experience in building modern web applications using React,Laravel and Vue.  
 I am interested in Cloud Computing, Kubernetes, and Cybersecurity, and I enjoy learning new technologies and building real-world projects.
 
 ---
