@@ -17,6 +17,7 @@ I am a student of Mae Fah Luang University, taking major in Digital and Communic
 I am a passionate Web Developer with experience in building modern web applications using React,Laravel and Vue.  
 I am interested in Cloud Computing, Kubernetes, and Cybersecurity, and I enjoy learning new technologies and building real-world projects.
 I am self-drive. I do personal projects by learning new technologies outside of coursework to imporve my skills and keep up with latest technology .
+
 I am a self-driven learner who actively builds personal projects to explore new technologies beyond academic coursework, enhance my technical skills, and stay current with industry trends.
 
 ---
