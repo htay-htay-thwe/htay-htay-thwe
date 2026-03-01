@@ -61,20 +61,20 @@ Highlighted full-stack, frontend, backend, and mobile applications built with mo
 <summary><b>Click to collapse/expand project list</b></summary>
 <br>
 
-| Category | Project | Tech Stack |
-|:---------|:--------|:-----------|
-| ⏳ Smart Queue Management System | [Smart Q Backend (NestJS)](https://github.com/htay-htay-thwe/smart_q_backend_nestjs) | Nest.js (websocket.io) |
-| ⏳ Smart Queue Management System | [Smart Q Restaurant Admin Dashboard](https://github.com/htay-htay-thwe/smart_queue_staff_web) | Next.js (shadcn/ui - websocket.io Notification) |
-| 🏝️ Gemini 3 flash AI Travel Planner | [Amigo Backend](https://github.com/htay-htay-thwe/amigo-backend) | Node.js (flight and hotel Api) |
-| 🏝️ Gemini 3 flash AI Travel Planner | [Amigo Mobile App](https://github.com/htay-htay-thwe/amigo-app) | React Native |
-| ☕ Mobile App | [Coffee App](https://github.com/htay-htay-thwe/coffeeRN) | React Native |
-| ☕ Backend | [Coffee Backend](https://github.com/htay-htay-thwe/coffee-Nodejs) | Node.js |
-| ✈️ Flight Systems | [Daily Flight (Vue.js)](https://github.com/htay-htay-thwe/daily_flight_vue) | Vue.js, API |
-| ✈️ Flight Systems | [Booking Flights (React)](https://github.com/htay-htay-thwe/Booking-Flights-React-JSX) | React, JSX |
-| ✈️ Flight Systems | [Booking Flights (Laravel)](https://github.com/htay-htay-thwe/Booking-Flights-Laravel) | Laravel, PHP, MySQL |
-| 📚 Content Platform | [Reading Contents](https://github.com/htay-htay-thwe/readingContents) | Vue |
-| 📚 Content Platform | [Creating Contents (Backend)](https://github.com/htay-htay-thwe/creatingContents-backened) | Laravel API |
-| 🛒 E-commerce | [Bookshop One](https://github.com/htay-htay-thwe/bookshop_one) | Vue |
+| Category | Project | Tech Stack | Project Created Date |
+|:---------|:--------|:-----------|:-----------|
+| ⏳ Smart Queue Management System | [Smart Q Backend (NestJS)](https://github.com/htay-htay-thwe/smart_q_backend_nestjs) | Nest.js (websocket.io) | 2026 early |
+| ⏳ Smart Queue Management System | [Smart Q Restaurant Admin Dashboard](https://github.com/htay-htay-thwe/smart_queue_staff_web) | Next.js (shadcn/ui - websocket.io Notification) | 2026 early |
+| 🏝️ Gemini 3 flash AI Travel Planner | [Amigo Backend](https://github.com/htay-htay-thwe/amigo-backend) | Node.js (flight and hotel Api) | 2025 late |
+| 🏝️ Gemini 3 flash AI Travel Planner | [Amigo Mobile App](https://github.com/htay-htay-thwe/amigo-app) | React Native | 2025 late |
+| ☕ Mobile App | [Coffee App](https://github.com/htay-htay-thwe/coffeeRN) | React Native | 2025 mid |
+| ☕ Backend | [Coffee Backend](https://github.com/htay-htay-thwe/coffee-Nodejs) | Node.js | 2025 mid |
+| ✈️ Flight Systems | [Daily Flight (Vue.js)](https://github.com/htay-htay-thwe/daily_flight_vue) | Vue.js, API | 2023 late |
+| ✈️ Flight Systems | [Booking Flights (React)](https://github.com/htay-htay-thwe/Booking-Flights-React-JSX) | React, JSX | 2024 mid |
+| ✈️ Flight Systems | [Booking Flights (Laravel)](https://github.com/htay-htay-thwe/Booking-Flights-Laravel) | Laravel, PHP, MySQL | 2024 mid |
+| 📚 Content Platform | [Reading Contents](https://github.com/htay-htay-thwe/readingContents) | Vue | 2023 early |
+| 📚 Content Platform | [Creating Contents (Backend)](https://github.com/htay-htay-thwe/creatingContents-backened) | Laravel API | 2023 early |
+| 🛒 E-commerce | [Bookshop One](https://github.com/htay-htay-thwe/bookshop_one) | Vue | 2023 early |
 
 </details>
 
