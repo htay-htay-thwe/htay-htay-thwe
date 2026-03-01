@@ -63,8 +63,8 @@ Highlighted full-stack, frontend, backend, and mobile applications built with mo
 
 | Category | Project | Tech Stack |
 |:---------|:--------|:-----------|
-| 🏝️ Smart Queue Management System | [Backend (NestJS)](https://github.com/htay-htay-thwe/smart_q_backend_nestjs) | Nest.js (websocket.io) |
-| 🏝️ Smart Queue Management System | [Restaurant Admin Dashboard](https://github.com/htay-htay-thwe/smart_queue_staff_web) | Next.js (shadcn/ui - websocket.io Notification) |
+| ⏳ Smart Queue Management System | [Backend (NestJS)](https://github.com/htay-htay-thwe/smart_q_backend_nestjs) | Nest.js (websocket.io) |
+| ⏳ Smart Queue Management System | [Restaurant Admin Dashboard](https://github.com/htay-htay-thwe/smart_queue_staff_web) | Next.js (shadcn/ui - websocket.io Notification) |
 | 🏝️ Gemini 3 flash AI Travel Planner | [Amigo Backend](https://github.com/htay-htay-thwe/amigo-backend) | Node.js (flight and hotel Api) |
 | 🏝️ Gemini 3 flash AI Travel Planner | [Amigo Mobile App](https://github.com/htay-htay-thwe/amigo-app) | React Native |
 | ☕ Mobile App | [Coffee App](https://github.com/htay-htay-thwe/coffeeRN) | React Native |
