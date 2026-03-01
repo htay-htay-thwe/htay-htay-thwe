@@ -19,6 +19,8 @@ I am interested in Cloud Computing, Kubernetes, and Cybersecurity, and I enjoy l
 
 I am a self-driven learner who actively builds personal projects to explore new technologies beyond academic coursework, enhance my technical skills, and stay current with industry trends.
 
+I’m looking to collaborate on Full-Stack Web Project
+
 ---
 
 ## 🛠️ Technical Arsenal
